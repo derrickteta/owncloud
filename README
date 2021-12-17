@@ -1,0 +1,11 @@
+
+
+1-) open the terminal in this folder
+
+2-) run the following command 
+chmod u+x automate.sh
+./automate.sh
+
+3-)at the end of all paste this link below in the browser.
+
+https://localhost:9200/signin/v1/identifier?client_id=web&code_challenge=zW1UepRUkB4epKgwcs5EKNuJv9RZR35QW_s1mGnMHME&code_challenge_method=S256&flow=oidc&redirect_uri=https%3A%2F%2Flocalhost%3A9200%2Foidc-callback.html&response_mode=query&response_type=code&scope=openid+profile+email&state=228a141fd1f84812aa848138cc5d7d76
